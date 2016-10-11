@@ -27,7 +27,7 @@
     <Placemark id="pm251">
       <name>Hawaii</name>
       <Snippet maxLines="0">empty</Snippet>
-      <description>Total Cases: 191<br/> Travel: 191<br/> Local: 0<br/></description>
+      <description>Total Cases: 191<br/> Travel: 191<br/> Local: 0<br/><script type='text/javascript'>displayStateBar('hawaii')</script></description>
       <TimeSpan>
         <begin>1959</begin>
       </TimeSpan>
